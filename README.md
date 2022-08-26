@@ -9,4 +9,7 @@
 <h1>Teste<h1>
 <h5>Bom ficou faltando na minha opinião uma tela de home, e telas de aviso<h5>
 <h5>Pode testar a colisão com as paredes,Vidas,Modo invulneravel quando o pacman fica imortal ambos os 3 funcionando de forma satisfatoria,Frutas e incremento de pontos.<h5>
+<h5>Primeira vez usando bonfire e Tiled tive que estudar por algumas horas estou mais acostumado a fazer aplicativos com sistema de login perfil etc consumir apis
+Gostaria de pedi para que observa-se meu repositorio chamado city-of-force e um joguinho da forca que ja esta quase na play store so esperando a analise para entrar la
+<h5>
 </div>
