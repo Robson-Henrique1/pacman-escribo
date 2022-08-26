@@ -6,8 +6,8 @@ import 'animations/fantasma_animation.dart';
 import 'characters/fantasmas.dart';
 import 'characters/pacmann.dart';
 import 'collectables/itens.dart';
-import 'my_game_controller.dart';
-import 'my_game_interface.dart';
+import 'game_controller.dart';
+import 'game_interface.dart';
 
 class Game extends StatefulWidget 
 {
